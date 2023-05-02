@@ -1,0 +1,57 @@
+/* RESET */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    color: white;
+}
+
+h1{
+    font-size: 7rem;
+    color: blueviolet;
+}
+
+[class^="col-"]{
+    font-size: .8rem;
+    background-color: blue;
+    border: 1px solid white;
+    text-align: center;
+    padding: 1rem;
+}
+
+.green{
+    background-color: lime;
+}
+
+.white{
+    background-color: white;
+}
+
+.divisore{
+    padding: .5rem;
+}
+
+.occhio{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    margin: 0 auto;
+}
+
+.naso{
+    width: 50px;
+    height: 30px;
+    background-color: lime;
+    margin: 0 auto;
+}
+
+.bocca{
+    width: 100%;
+    height: 30px;
+    background-color: lime;
+    margin: 0 auto;
+}
