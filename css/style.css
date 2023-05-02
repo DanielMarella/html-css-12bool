@@ -12,7 +12,13 @@
 
 
 [class^="col-"]{
+    font-size: .8rem;
     background-color: blue;
     border: 1px solid white;
     text-align: center;
+    padding: 1rem;
+}
+
+.green{
+    background-color: lime;
 }
